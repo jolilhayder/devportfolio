@@ -56,7 +56,7 @@ export const siteConfig = {
         "Maintained attention to detail and multitasked effectively under pressure during busy hours",
       ],
     },
-    },
+    
   ],
   education: [
     {
