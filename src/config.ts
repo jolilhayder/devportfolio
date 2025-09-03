@@ -13,11 +13,11 @@ export const siteConfig = {
   skills: ["Java", "JavaScript", "C", "C++", "PHP", "HTML", "CSS", "SQL", "Linux", "Cisco Packet Tracer", "VMware", "Autopsy"],
   projects: [
     {
-      name: "AI Dev Roundup Newsletter",
+      name: "Caesar Cipher Decryption Tool",
       description:
-        "One concise email. Five minutes. Every Tuesday. Essential AI news & trends, production-ready libraries, powerful AI tools, and real-world code examples",
-      link: "https://aidevroundup.com/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
+        "A C++ program that decrypts Caesar cipher–encrypted text using frequency analysis and manual key input. Built as part of a cybersecurity project to demonstrate classical encryption techniques.",
+      link: "https://github.com/jolilhayder/caesar-cipher-cpp",
+      skills: ["C++", "Encryption", "Cybersecurity", "File I/O"],
     },
     {
       name: "Chrome Extension Mastery: Build Full-Stack Extensions with React & Node.js",
