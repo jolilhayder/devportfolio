@@ -20,18 +20,11 @@ export const siteConfig = {
       skills: ["C++", "Encryption", "Cybersecurity", "File I/O"],
     },
     {
-      name: "Chrome Extension Mastery: Build Full-Stack Extensions with React & Node.js",
+      name: "Interactive 3D Forest",
       description:
-        "Master the art of building production-ready, full-stack Chrome Extensions using modern web technologies and best practices",
-      link: "https://fullstackextensions.com/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
-    },
-    {
-      name: "ExtensionKit",
-      description:
-        "Kit to jump-start your Chrome extension projects with a variety of battle-tested starter templates & examples",
-      link: "https://extensionkit.io/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
+        "A 3D first-person forest simulation using Three.js and Vite, featuring movement, sound effects, and animated scenery.",
+      link: "https://github.com/jolilhayder/3d-forest-environment",
+      skills: ["JavaScript", "Three.js", "Vite", "WebGL"],
     },
   ],
   experience: [
